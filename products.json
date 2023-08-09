@@ -1,0 +1,41 @@
+[
+    {
+    "name":"iphone",
+    "price":134,
+    "feature":true,
+    "company":"apple"
+},
+{
+    "name":"nokia",
+    "price":134,
+    "feature":true,
+    "company":"window"
+},
+
+
+{
+    "name":"poco",
+    "price":239,
+    "feature":true,
+    "company":"andriod"
+},
+{
+    "name":"samsung",
+    "price":892,
+    "feature":true,
+    "company":"andriod"
+},
+{
+    "name":"oppo",
+    "price":22234,
+    "feature":true,
+    "company":"andriod"
+},
+{
+    "name":"infinix",
+    "price":1214,
+    "feature":true,
+    "company":"andriod"
+}
+
+]
